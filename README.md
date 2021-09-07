@@ -16,9 +16,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [ ] Atualização das moedas em tempo real
 
-  ![image-20210907144224833](C:\Users\alexb\AppData\Roaming\Typora\typora-user-images\image-20210907144224833.png)
+ ![image](https://user-images.githubusercontent.com/68236978/132389221-d65e1eda-a6a8-463b-a20e-2ea2f98f6c8c.png)
   
-  ![image-20210907144254668](C:\Users\alexb\AppData\Roaming\Typora\typora-user-images\image-20210907144254668.png)		
+ ![image](https://user-images.githubusercontent.com/68236978/132389261-1ebc1f2f-8fd8-4573-a791-9543cb5b372a.png)	
 
 
 
